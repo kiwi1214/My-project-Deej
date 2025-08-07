@@ -1,0 +1,21 @@
+{
+    "potentiometers": {
+        "0": "🔊 głośność systemowa",
+        "1": "🔊 głośność aplikacji:opera.exe",
+        "2": "🔊 głośność aplikacji:discord.exe",
+        "3": "🎧 głośność aktywnej aplikacji",
+        "4": "🎤 głośność mikrofonu"
+    },
+    "buttons": {
+        "0": "🔇 wyciszenie systemowe",
+        "1": "🔇 wyciszenie aplikacji:opera.exe",
+        "2": "🔇 wyciszenie aplikacji:discord.exe",
+        "3": "🔇 wyciszenie aktywnej aplikacji",
+        "4": "🎤 wyciszenie mikrofonu",
+        "5": "▶️⏸️ odtwórz zatrzymaj",
+        "6": "⏭️ następny utwór",
+        "7": "⏮️ poprzedni utwór",
+        "8": "⏹️ zatrzymaj",
+        "9": "📸 zrób zrzut ekranu"
+    }
+}
